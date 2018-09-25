@@ -1,0 +1,8 @@
+﻿  QuanLy.cpp
+c:\users\pc\source\repos\doan23\doan23\quanly.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\pc\source\repos\doan23\doan23\quanly.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\pc\source\repos\doan23\doan23\quanly.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\pc\source\repos\doan23\doan23\quanly.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\pc\source\repos\doan23\doan23\quanly.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\pc\source\repos\doan23\doan23\quanly.cpp(61): warning C4018: '<': signed/unsigned mismatch
+  DoAn23.vcxproj -> C:\Users\PC\source\repos\DoAn23\Debug\DoAn23.exe
